@@ -5,7 +5,7 @@ During my military service, I plan to use some of my free time to solve algorith
 
 Contact information: shawn13lee@gmail.com
 
-*현재 1일1커밋을 목표로 하는 중. 당직사관의 사지방 연등 허용 유무에 따라 부득이하게 못 할 수도 있음.*
+*현재 1일1커밋을 목표로 하는 중. 당직사관의 사지방 연등 허용 유무 또는 상황 근무 에 따라 부득이하게 못 할 수도 있음.*
 
 <!---
 ShawneeBoy/ShawneeBoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

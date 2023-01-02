@@ -3,6 +3,7 @@
 Currently a freshman at Carnegie Mellon's School of Computer Science.
 
 Professional Contact: sihyunlee@cmu.edu
+
 Personal Contact: shawn13lee@gmail.com
 
 <!---

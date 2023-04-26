@@ -1,6 +1,6 @@
 **Shawn Sihyun Lee**
 
-Currently a freshman at Carnegie Mellon's School of Computer Science.
+B.S. in Computer Science + Machine Learning @ Carnegie Mellon's School of Computer Science.
 
 Professional Contact: sihyunlee@cmu.edu
 

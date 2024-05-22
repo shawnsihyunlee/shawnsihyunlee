@@ -1,6 +1,6 @@
 **Shawn Sihyun Lee**
 
-B.S. in Computer Science + Machine Learning @ Carnegie Mellon's School of Computer Science.
+B.S. in Computer Science with concentrations in ML and Systems @ Carnegie Mellon's School of Computer Science.
 
 Professional Contact: sihyunlee@cmu.edu
 
